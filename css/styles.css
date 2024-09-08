@@ -121,8 +121,8 @@ button {
         color: #2e2f42;
 }
 
-.section {
-    text-transform:capitalize
+p {
+    text-transform: capitalize;
 }
 
 .ul-three-section {
