@@ -87,3 +87,7 @@ color: #f4f4fd;
 .section-button-one:focus {
     background-color: #404BBF;
 }
+
+button {
+     cursor: pointer; 
+}
