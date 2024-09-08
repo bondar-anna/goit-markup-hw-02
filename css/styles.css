@@ -83,7 +83,7 @@ color: #f4f4fd;
         background-color: #4D5AE5
 }
 
-.section-button-one:hover,
-.section-button-one:focus {
+.cursor-pointer:hover,
+.cursor-pointer:focus {
      color: #404BBF
 }
